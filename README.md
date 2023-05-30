@@ -1,19 +1,13 @@
 # 涂鸦云备用域名
 
-https://toya.la (需翻墙)
+https://www.vmssr.co 官网
 
-https://tuya.la 官网
+https://www.vmssr.cc 官网
 
-https://yunti.la
+https://www.vmssr.net 官网
+
+[https://www.vmssr.tk](https://www.vmssr.tk ) 官网
 
 # 临时域名
 
-https://yuntina.com
-
-https://yuntina.org
-
-https://yuntina.net
-
-https://yuntina.info
-
-https://yunticloud.com
+暂无
